@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1B24B87F-B423-D39B-1FDD-40E325277A35}") = "puzzlebattler-master 2", "Assembly-CSharp-firstpass-vs.csproj", "{2D7B92EE-4A96-586C-7306-6AF73B99AE50}"
+EndProject
+Project("{1B24B87F-B423-D39B-1FDD-40E325277A35}") = "puzzlebattler-master 2", "Assembly-CSharp-vs.csproj", "{D742EACC-050C-D003-91D7-FF0B404F45C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7B92EE-4A96-586C-7306-6AF73B99AE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7B92EE-4A96-586C-7306-6AF73B99AE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7B92EE-4A96-586C-7306-6AF73B99AE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7B92EE-4A96-586C-7306-6AF73B99AE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D742EACC-050C-D003-91D7-FF0B404F45C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D742EACC-050C-D003-91D7-FF0B404F45C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D742EACC-050C-D003-91D7-FF0B404F45C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D742EACC-050C-D003-91D7-FF0B404F45C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+		GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
